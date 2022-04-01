@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: 'git'
   repo: https://github.com/yinin6/yinin6.github.io.git
-  branch: main
+  branch: hexo
